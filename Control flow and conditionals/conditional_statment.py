@@ -39,6 +39,7 @@ if not current:
 
 current = False
 
+# More Efficient
 if current:
     current = False
     print('Turning light off')

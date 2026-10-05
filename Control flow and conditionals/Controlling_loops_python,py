@@ -1,0 +1,41 @@
+#Starter Code
+favorites = ['Creme Brulee', 'Apple Pie', 'Churros', 'Tiramisú', 'Chocolate Cake']
+
+# For EACH dessert in the list, check whether THIS dessert is Pudding."
+# Do something for every item.
+for dessert in favorites:
+    if dessert == 'Churros':
+        print(f'Yes! One of my favorite desserts is {dessert}')
+        break
+else:
+    print('No sorry, that dessert is not on my list') #five times coz 5 items     
+
+print("-------------------------------")
+
+# Check whether one item exists anywhere in the collection.
+if "Pudding" in favorites:
+    print(f'Yes! One of my favorite desserts')
+else:
+    print('No sorry, that dessert is not on my list')
+
+
+
+
+
+
+
+
+'''
+pass
+  ↓
+"Do nothing."
+
+continue
+  ↓
+"Skip this iteration."
+
+break
+  ↓
+"Stop the loop."
+
+'''
