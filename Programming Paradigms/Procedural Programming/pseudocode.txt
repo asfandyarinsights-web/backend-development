@@ -1,0 +1,21 @@
+BEGIN
+
+    GET instant coffee, water, milk, mug, teaspoon, kettle
+
+    HEAT water in kettle until boiling
+
+    ADD 2 teaspoons of instant coffee to mug
+
+    POUR 200 ml of hot water into mug
+
+    STIR until coffee dissolves
+
+    ADD milk according to preference
+
+    STIR coffee
+
+    DO NOT ADD sugar
+
+    SERVE coffee when it is safe to drink
+
+END

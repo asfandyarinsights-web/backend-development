@@ -1,5 +1,0 @@
-Hello, my name is Ali.
-I am learning Python programming.
-Python makes file handling easy.
-I am practicing reading and writing files.
-This is my fifth line of dummy text.
