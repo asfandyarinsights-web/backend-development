@@ -23,7 +23,7 @@ new_sequence = sequence * 3
 # It duplicates the items inside the list, returning [1, 2, 3, 1, 2, 3, 1, 2, 3].
 
 print(new_str, new_num, new_sequence)
-
+    
 
 
 string = "poly"
