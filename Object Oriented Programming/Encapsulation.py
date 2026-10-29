@@ -1,3 +1,4 @@
+# Encapsulation
 class Alpha:
     
     def __init__(self): #This is a special setup function (called a constructor). 
