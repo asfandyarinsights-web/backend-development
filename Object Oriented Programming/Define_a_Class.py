@@ -27,8 +27,3 @@ print(house.num_rooms)
 
 # Direct Class Call
 print(House.num_rooms)
-
-
-
-
-
